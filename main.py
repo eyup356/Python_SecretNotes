@@ -4,7 +4,7 @@ from tkinter import messagebox
 import cryptocode
 
 window = Tk()
-window.title("Python Tkinter")
+window.title("Secret Notes")
 window.minsize(width=400, height=700)
 window.config(padx=20, pady=50)
 original_image = Image.open("hacker.png")
